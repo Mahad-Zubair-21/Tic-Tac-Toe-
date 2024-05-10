@@ -1,26 +1,24 @@
-# Tic-Tac-Toe-
-A Tic-Tac-Toe game, using pygame and pytthon, that has three different modes
-Modes:
+## Tic-Tac-Toe Game
 
-Player vs. Random AI:
-In this mode, a human player competes against an AI opponent that randomly generates its moves.
-The game starts in this mode by default.
+Welcome to the classic game of Tic-Tac-Toe brought to life with Python and Pygame!
 
-Player vs. Minimax AI:
-When the player chooses to switch modes, they can compete against an AI opponent that utilizes the Minimax algorithm,
-making strategic moves to maximize its chances of winning or forcing a draw.
+### How to Play:
+- Run the game and enjoy a round of Tic-Tac-Toe against a smart AI or challenge a friend in a PvP mode.
+- Use the keyboard keys to switch game modes and AI difficulty levels.
+- Click on the squares to place your mark and try to get three in a row to win!
 
-Player vs. Player:
-This mode allows two human players to play against each other on the same device,
-taking turns to make their moves.
+### Features:
+- Play against an AI that can challenge you with different difficulty levels.
+- Enjoy a visually appealing game interface with colorful graphics.
+- Get notified when the game ends with a clear message displayed on the screen.
 
-Game Controls:
-Press '1' to start or switch to Player vs. Random AI mode.
-Press '2' to switch to Player vs. Minimax AI mode.
-Press 'r' to reset the game board.
-Press 'g' to switch to Player vs. Player mode.
+### Controls:
+- Press 'g' to switch between AI and PvP modes.
+- Press 'r' to reset the game.
+- Press '0' for a random AI move (Easy mode).
+- Press '2' for a strategic AI move (Hard mode).
 
-User Interface:
-The game presents a 3x3 grid on the screen to represent the Tic Tac Toe board.
-Each cell of the grid responds to player input.
-Current mode indicator displayed for the user.
+### Have Fun!
+Feel free to customize the game, explore the code, and have a blast playing Tic-Tac-Toe with your friends or challenging the AI. Let the games begin!
+
+Enjoy the game and may the best player win! 🎮✨
